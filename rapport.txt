@@ -1,0 +1,14 @@
+Beskriv hur du arbetat med TDD delen 
+Erfarenheter?
+
+Beskriv hur du arbetat med BDD delen 
+Erfarenheter?
+
+Beskriv automatiserade tester med hjälp av Python - 
+fördelar
+finns det nackdelar?
+
+
+
+
+
